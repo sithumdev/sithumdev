@@ -17,9 +17,7 @@
     **GitHub Stats**
 <br />
 <br />
-<a href="https://github.com/SithumDev">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithumDev&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Sithum's github stats"/></a>
-</div>
+[![Sithum's GitHub stats](https://github-readme-stats.vercel.app/api?username=sithumdev)](https://github.com/sithumdev/github-readme-stats)
 
 <div align="center">
 
@@ -45,8 +43,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SithumDev/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sithum Basnayake's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SithumDev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/sithumdev/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sithum Basnayake's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sithumdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
