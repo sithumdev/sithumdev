@@ -16,8 +16,6 @@
 <div align="center">
     **GitHub Stats**
 <br />
-<br />
-[![Sithum's GitHub stats](https://github-readme-stats.vercel.app/api?username=sithumdev)](https://github.com/sithumdev/github-readme-stats)
 
 <div align="center">
 
